@@ -1,0 +1,42 @@
+# VMware Workstation 17 Pro Installation on Windows
+
+This guide provides the step-by-step instructions on how to install VMware Workstation 17 Pro on a Windows machine.
+
+## Prerequisites
+
+- A Windows machine with at least 8GB of RAM and 2GB of free disk space.
+
+## Step 1: Download VMware Workstation 17 Pro
+
+You can download VMware Workstation 17 Pro for Windows from Broadcom's official website.
+
+[Download VMware Workstation 17 Pro](https://www.broadcom.com/products/virtualization/workstation)
+
+1. Visit the link above.
+2. Scroll down to the **Downloads** section.
+3. Click on the "Download Now" button under **VMware Workstation 17 Pro for Windows**.
+4. Follow the prompts to download the installer file.
+
+## Step 2: Install VMware Workstation 17 Pro
+
+1. Once the installer is downloaded, locate the file (usually in your **Downloads** folder).
+2. Double-click the installer to start the installation process.
+3. Follow the on-screen instructions:
+    - **License Agreement**: Accept the VMware license agreement.
+    - **Choose Installation Folder**: Select the destination folder or leave it as default.
+    - **User Experience Settings**: Choose your preferred settings for user experience.
+    - **Install**: Click **Install** to begin the installation.
+
+4. Wait for the installation to complete. This may take several minutes.
+
+## Step 3: Complete the Installation
+
+Once the installation is complete, you can choose to start VMware Workstation 17 Pro immediately.
+
+1. Click **Finish** to exit the installer.
+2. You can now launch VMware Workstation 17 Pro from the Start Menu or Desktop shortcut.
+
+## Step 4: Activate VMware Workstation
+
+- After the installation, you will need a valid license key to fully activate VMware Workstation 17 Pro.
+- You can enter the license key during the initial launch, or you can choose the 30-day trial option.
