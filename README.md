@@ -2,7 +2,7 @@
 Step-by-step guide to setting up a HomeLab Workstation for cybersecurity and forensic analysis. This setup covers installing VMware Workstation Pro, configuring a Windows environment, enabling Windows Subsystem for Linux (WSL), and installing essential forensic tools.
 
 ## Prerequisites
-- 16GB RAM, SSD, multi-core processor
+- minimum of 16GB RAM, multi-core processor
 - VMware Workstation Pro 17 – [Download from VMware](https://www.vmware.com/products/workstation-pro.html)
 - Windows 10 ISO – [Download from Microsoft](https://www.microsoft.com/en-us/software-download/windows10)
 - Windows Server 2019 ISO – [Download from Microsoft](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
